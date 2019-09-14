@@ -1,0 +1,20 @@
+{
+  "name": "readable-wiki-theme",
+  "version": "0.0.0",
+  "description": "A plain, readable theme for a wiki.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jen Hoskins",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
